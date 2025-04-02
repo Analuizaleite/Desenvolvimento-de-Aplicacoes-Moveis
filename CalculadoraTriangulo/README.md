@@ -7,9 +7,9 @@ Este projeto é um aplicativo simples desenvolvido com React Native e Expo, que 
 
 O objetivo deste aplicativo é fornecer uma ferramenta simples para calcular a área de um triângulo, utilizando a fórmula:
 
-\[
-Área = \frac{base \times altura}{2}
-\]
+$$
+\text{Área} = \frac{\text{base} \times \text{altura}}{2}
+$$
 
 ## Como executar a aplicação
 
