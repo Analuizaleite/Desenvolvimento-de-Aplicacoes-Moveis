@@ -11,6 +11,8 @@ $$
 \text{Área} = \frac{\text{base} \times \text{altura}}{2}
 $$
 
+![Imagem do aplicativo](./images/Calculadora%20Area%20Triangulo.jpeg)
+
 ## Como executar a aplicação
 
 ### Pré-requisitos
