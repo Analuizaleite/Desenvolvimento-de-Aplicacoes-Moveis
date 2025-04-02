@@ -4,4 +4,4 @@ Este repositório contém os projetos realizados durante a disciplina de **Desen
 
 | Projeto | Descrição | Link |
 |---------|-----------|------|
-| Projeto 01 | Aplicativo simples para cálculo de área de um triângulo. | [Projeto 01](https://github.com/Analuizaleite/Desenvolvimento-de-Aplicacoes-Moveis/tree/main/CalculadoraTrinagulo) |
+| Projeto 01 | Aplicativo simples para cálculo de área de um triângulo. | [Projeto 01](https://github.com/Analuizaleite/Desenvolvimento-de-Aplicacoes-Moveis/tree/main/CalculadoraTriangulo) |
